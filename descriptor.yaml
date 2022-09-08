@@ -1,8 +1,8 @@
-code: strapi-config-widget
-description: Strapi URL configuration for entando widgets
+code: entando-strapi-config-bundle
+description: Entando Strapi Config Bundle
 components:
   plugins:
     - plugins/entando-strapi-config-ms-plugin.yaml
   widgets:
-    - ui/widgets/widgets-dir/et-strapi-config-widget/et-strapi-config-widget-descriptor.yaml
+    - ui/widgets/widgets-dir/entando-strapi-config-widget/entando-strapi-config-widget-descriptor.yaml
 

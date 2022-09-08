@@ -1,4 +1,4 @@
-image: sachinbaghel27/entando-strapi-config:0.0.1
+image: sachinbaghel27/entando-strapi-config:1.0.1
 dbms: none
 ingressPath: "/entando-strapi-config-api"
 healthCheckPath: "/actuator/health"
