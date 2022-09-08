@@ -3,4 +3,4 @@ titles:
   en: Strapi config widget
   it: Modello di contenuto
 group: free
-customUiPath: strapi-config-descriptor.yaml
+customUiPath: strapi-config-widget.ftl
